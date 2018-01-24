@@ -8,7 +8,6 @@
   "scripts": {},
   "env": {
     "RAILS_ENV": "production"
-  },
-  "addons": ["heroku-postgresql", "papertrail", "heroku-redis:hobby-dev"]
+  }
 
 }
